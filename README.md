@@ -31,6 +31,6 @@ Choose the particle type to replace the fire lingering particles of the fire gre
 
 ## Credits
 
-* Thanks to DMF, DML and DLS devs for making this possible.
+* Thanks to DMF and DML devs for making this possible.
 * Thanks to my ADHD for making me do this.
 * Idea thanks to the inumerous suggestions in the Darktide Modders discord server.
