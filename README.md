@@ -14,6 +14,7 @@ Choose the particle type to replace the fire lingering particles of the fire gre
 ## Localization
 - [x] English
 - [x] Simplified Chinese, thanks to [Lokisonl](https://github.com/Lokisonl)
+- [x] Pусский - Thanks to [@xsSplater](https://github.com/xsSplater)
 - [ ] For others, please submit PR in [Github](https://github.com/JCalebBR/BetterFireGrenade)
 
 ## Installation
